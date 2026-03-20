@@ -1,0 +1,16 @@
+{
+    "name": "Narandra Modi",
+    "paty": "BJP",
+    "age": 72,
+    "votes": [
+        {
+            "user":"63f1c4e2f9a1b2c5d6e7f890",
+            "votedAt":"2024-06-15T10:00:00Z"
+        },
+        {
+            "user":"63f1c4e2f9a1b2c5d6e7f891",
+            "votedAt":"2024-06-16T11:30:00Z"
+        }
+    ],
+    "voteCount": 2
+}
